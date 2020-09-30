@@ -1,0 +1,129 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 61818
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 80978
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 84176
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 56817
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 55245
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 85262
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 96109
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 42259
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 56212
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 90341
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 65833
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 98428
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 102337
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 111432
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 56006
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 163352
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 83605
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 54784
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 70111
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 69126
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 62887
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 76282
+Running: Free Rootfile22
+Running:Starting Rootfile23
+entryNumber = 61130
+Running: Free Rootfile23
+Running:Starting Rootfile24
+entryNumber = 76261
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 75183
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 62895
+Running: Free Rootfile26
+Running:Starting Rootfile27
+entryNumber = 68997
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 67613
+Running: Free Rootfile28
+Running:Starting Rootfile29
+entryNumber = 63041
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 76759
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 55356
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 83428
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 63028
+Running: Free Rootfile33
+Running:Starting Rootfile34
+entryNumber = 77214
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 56651
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 84682
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 70510
+Running: Free Rootfile37
+Running:Starting Rootfile38
+entryNumber = 72147
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 55798
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 83726
+Running: Free Rootfile40
+
+total event number:2.97782e+06
+
+Running:40files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

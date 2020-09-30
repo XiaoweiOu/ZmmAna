@@ -1,0 +1,100 @@
+********* ZmmAna begin! *********
+********* Attention:it is   QCD_num   running now********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 59035
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 58768
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 57617
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 59468
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 58843
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 59641
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 58457
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 60728
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 57709
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 59342
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 59151
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 58997
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 60368
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 60796
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 50927
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 58012
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 58600
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 59236
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 58419
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 58241
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 58695
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 58227
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x0000003b3aaac82e in waitpid () from /lib64/libc.so.6
+#1  0x0000003b3aa3e479 in do_system () from /lib64/libc.so.6
+#2  0x00007f2ec6658ebd in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#3  0x00007f2ec665b624 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x000000000040ebfe in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum http://root.cern.ch/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at http://root.cern.ch/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x000000000040ebfe in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+

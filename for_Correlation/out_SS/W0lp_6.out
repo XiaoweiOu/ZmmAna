@@ -1,0 +1,100 @@
+********* ZmmAna begin! *********
+********* Attention:it is   QCD_num   running now********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072148-20093198.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072148-20093198.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 26058832
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile1
+entryNumber = 38208
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 50604
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 50357
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 50461
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 50759
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 51171
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile8
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile9
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile10
+entryNumber = 51426
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 50439
+Running: Free Rootfile11
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072158-20093209.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072158-20093209.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 30313178
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile12
+entryNumber = 44576
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 49978
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 50333
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 50032
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 51138
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 50206
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 50585
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 50165
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 50060
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x0000003b3aaac82e in waitpid () from /lib64/libc.so.6
+#1  0x0000003b3aa3e479 in do_system () from /lib64/libc.so.6
+#2  0x00007fdc4eff0ebd in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#3  0x00007fdc4eff3624 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x000000000040ebfa in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum http://root.cern.ch/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at http://root.cern.ch/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x000000000040ebfa in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+

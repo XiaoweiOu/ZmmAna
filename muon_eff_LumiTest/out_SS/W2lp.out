@@ -1,0 +1,555 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 66388
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 67157
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 67410
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 67116
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 70416
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 67692
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 67612
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 68173
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 69685
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 67902
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 67861
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 66313
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 66253
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile15
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile16
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile17
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile18
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile19
+entryNumber = 67793
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 68657
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile22
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile23
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile24
+entryNumber = 66091
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 66947
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile27
+entryNumber = 69337
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile29
+entryNumber = 68793
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 67996
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 79637
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 69949
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 67537
+Running: Free Rootfile33
+Running:Starting Rootfile34
+entryNumber = 123425
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 120409
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 67948
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 68219
+Running: Free Rootfile37
+Running:Starting Rootfile38
+entryNumber = 67011
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 68264
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 66462
+Running: Free Rootfile40
+Running:Starting Rootfile41
+entryNumber = 70371
+Running: Free Rootfile41
+Running:Starting Rootfile42
+entryNumber = 67155
+Running: Free Rootfile42
+Running:Starting Rootfile43
+entryNumber = 67646
+Running: Free Rootfile43
+Running:Starting Rootfile44
+entryNumber = 69537
+Running: Free Rootfile44
+Running:Starting Rootfile45
+entryNumber = 67809
+Running: Free Rootfile45
+Running:Starting Rootfile46
+entryNumber = 66909
+Running: Free Rootfile46
+Running:Starting Rootfile47
+entryNumber = 67302
+Running: Free Rootfile47
+Running:Starting Rootfile48
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile49
+entryNumber = 67490
+Running: Free Rootfile49
+Running:Starting Rootfile50
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile51
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile52
+entryNumber = 67420
+Running: Free Rootfile52
+Running:Starting Rootfile53
+entryNumber = 67881
+Running: Free Rootfile53
+Running:Starting Rootfile54
+entryNumber = 68489
+Running: Free Rootfile54
+Running:Starting Rootfile55
+entryNumber = 67096
+Running: Free Rootfile55
+Running:Starting Rootfile56
+entryNumber = 67917
+Running: Free Rootfile56
+Running:Starting Rootfile57
+entryNumber = 70207
+Running: Free Rootfile57
+Running:Starting Rootfile58
+entryNumber = 67454
+Running: Free Rootfile58
+Running:Starting Rootfile59
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile60
+entryNumber = 68032
+Running: Free Rootfile60
+Running:Starting Rootfile61
+entryNumber = 66816
+Running: Free Rootfile61
+Running:Starting Rootfile62
+entryNumber = 66779
+Running: Free Rootfile62
+Running:Starting Rootfile63
+entryNumber = 68143
+Running: Free Rootfile63
+Running:Starting Rootfile64
+entryNumber = 69136
+Running: Free Rootfile64
+Running:Starting Rootfile65
+entryNumber = 70756
+Running: Free Rootfile65
+Running:Starting Rootfile66
+entryNumber = 66991
+Running: Free Rootfile66
+Running:Starting Rootfile67
+entryNumber = 67452
+Running: Free Rootfile67
+Running:Starting Rootfile68
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile69
+entryNumber = 67943
+Running: Free Rootfile69
+Running:Starting Rootfile70
+entryNumber = 66885
+Running: Free Rootfile70
+Running:Starting Rootfile71
+entryNumber = 66711
+Running: Free Rootfile71
+Running:Starting Rootfile72
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile73
+entryNumber = 69851
+Running: Free Rootfile73
+Running:Starting Rootfile74
+entryNumber = 68089
+Running: Free Rootfile74
+Running:Starting Rootfile75
+entryNumber = 68317
+Running: Free Rootfile75
+Running:Starting Rootfile76
+entryNumber = 67716
+Running: Free Rootfile76
+Running:Starting Rootfile77
+entryNumber = 69459
+Running: Free Rootfile77
+Running:Starting Rootfile78
+entryNumber = 68190
+Running: Free Rootfile78
+Running:Starting Rootfile79
+entryNumber = 68349
+Running: Free Rootfile79
+Running:Starting Rootfile80
+entryNumber = 67780
+Running: Free Rootfile80
+Running:Starting Rootfile81
+entryNumber = 69191
+Running: Free Rootfile81
+Running:Starting Rootfile82
+entryNumber = 67285
+Running: Free Rootfile82
+Running:Starting Rootfile83
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile84
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile85
+entryNumber = 68913
+Running: Free Rootfile85
+Running:Starting Rootfile86
+entryNumber = 67362
+Running: Free Rootfile86
+Running:Starting Rootfile87
+entryNumber = 69572
+Running: Free Rootfile87
+Running:Starting Rootfile88
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile89
+entryNumber = 67843
+Running: Free Rootfile89
+Running:Starting Rootfile90
+entryNumber = 66707
+Running: Free Rootfile90
+Running:Starting Rootfile91
+entryNumber = 69767
+Running: Free Rootfile91
+Running:Starting Rootfile92
+entryNumber = 68041
+Running: Free Rootfile92
+Running:Starting Rootfile93
+entryNumber = 67904
+Running: Free Rootfile93
+Running:Starting Rootfile94
+entryNumber = 67363
+Running: Free Rootfile94
+Running:Starting Rootfile95
+entryNumber = 68490
+Running: Free Rootfile95
+Running:Starting Rootfile96
+entryNumber = 68015
+Running: Free Rootfile96
+Running:Starting Rootfile97
+entryNumber = 67435
+Running: Free Rootfile97
+Running:Starting Rootfile98
+entryNumber = 67850
+Running: Free Rootfile98
+Running:Starting Rootfile99
+entryNumber = 67217
+Running: Free Rootfile99
+Running:Starting Rootfile100
+entryNumber = 68306
+Running: Free Rootfile100
+Running:Starting Rootfile101
+entryNumber = 67445
+Running: Free Rootfile101
+Running:Starting Rootfile102
+entryNumber = 69786
+Running: Free Rootfile102
+Running:Starting Rootfile103
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile104
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile105
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile106
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile107
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile108
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile109
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile110
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile111
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile112
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile113
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile114
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile115
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile116
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile117
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile118
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile119
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile120
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile121
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile122
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile123
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile124
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile125
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile126
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile127
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile128
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile129
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile130
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile131
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile132
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile133
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile134
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile135
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile136
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile137
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile138
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile139
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile140
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile141
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile142
+entryNumber = 67351
+Running: Free Rootfile142
+Running:Starting Rootfile143
+entryNumber = 66687
+Running: Free Rootfile143
+Running:Starting Rootfile144
+entryNumber = 67473
+Running: Free Rootfile144
+Running:Starting Rootfile145
+entryNumber = 67192
+Running: Free Rootfile145
+Running:Starting Rootfile146
+entryNumber = 67116
+Running: Free Rootfile146
+Running:Starting Rootfile147
+entryNumber = 67636
+Running: Free Rootfile147
+Running:Starting Rootfile148
+entryNumber = 67625
+Running: Free Rootfile148
+Running:Starting Rootfile149
+entryNumber = 67234
+Running: Free Rootfile149
+Running:Starting Rootfile150
+entryNumber = 67071
+Running: Free Rootfile150
+Running:Starting Rootfile151
+entryNumber = 67255
+Running: Free Rootfile151
+Running:Starting Rootfile152
+entryNumber = 68444
+Running: Free Rootfile152
+Running:Starting Rootfile153
+entryNumber = 67131
+Running: Free Rootfile153
+Running:Starting Rootfile154
+entryNumber = 67373
+Running: Free Rootfile154
+Running:Starting Rootfile155
+entryNumber = 67059
+Running: Free Rootfile155
+Running:Starting Rootfile156
+entryNumber = 67329
+Running: Free Rootfile156
+Running:Starting Rootfile157
+entryNumber = 68523
+Running: Free Rootfile157
+Running:Starting Rootfile158
+entryNumber = 67661
+Running: Free Rootfile158
+Running:Starting Rootfile159
+entryNumber = 66993
+Running: Free Rootfile159
+Running:Starting Rootfile160
+entryNumber = 67288
+Running: Free Rootfile160
+Running:Starting Rootfile161
+entryNumber = 67063
+Running: Free Rootfile161
+Running:Starting Rootfile162
+entryNumber = 67294
+Running: Free Rootfile162
+Running:Starting Rootfile163
+entryNumber = 67396
+Running: Free Rootfile163
+Running:Starting Rootfile164
+entryNumber = 66750
+Running: Free Rootfile164
+Running:Starting Rootfile165
+entryNumber = 67850
+Running: Free Rootfile165
+Running:Starting Rootfile166
+entryNumber = 68000
+Running: Free Rootfile166
+Running:Starting Rootfile167
+entryNumber = 66965
+Running: Free Rootfile167
+Running:Starting Rootfile168
+entryNumber = 67713
+Running: Free Rootfile168
+Running:Starting Rootfile169
+entryNumber = 67362
+Running: Free Rootfile169
+Running:Starting Rootfile170
+entryNumber = 66601
+Running: Free Rootfile170
+Running:Starting Rootfile171
+entryNumber = 66893
+Running: Free Rootfile171
+Running:Starting Rootfile172
+entryNumber = 67703
+Running: Free Rootfile172
+Running:Starting Rootfile173
+entryNumber = 67713
+Running: Free Rootfile173
+Running:Starting Rootfile174
+entryNumber = 67981
+Running: Free Rootfile174
+Running:Starting Rootfile175
+entryNumber = 67296
+Running: Free Rootfile175
+Running:Starting Rootfile176
+entryNumber = 66858
+Running: Free Rootfile176
+Running:Starting Rootfile177
+entryNumber = 67849
+Running: Free Rootfile177
+Running:Starting Rootfile178
+entryNumber = 67325
+Running: Free Rootfile178
+Running:Starting Rootfile179
+entryNumber = 67629
+Running: Free Rootfile179
+Running:Starting Rootfile180
+entryNumber = 66661
+Running: Free Rootfile180
+Running:Starting Rootfile181
+entryNumber = 66899
+Running: Free Rootfile181
+Running:Starting Rootfile182
+entryNumber = 66375
+Running: Free Rootfile182
+
+total event number:8.52364e+06
+
+Running:182files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

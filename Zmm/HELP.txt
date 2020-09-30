@@ -1,0 +1,23 @@
+//This file describe the process of looping events
+//MC:./ZmmAna.exe filelist_MC_x.list MC 0
+
+1. run Normal: data + MC
+2. run EW_bkg
+3. run QCD_num
+4. run QCD_spectrum
+5  calculate EW_bkg & QCD_bkg
+6. calculate Syst_weight
+(7. run EffSystWeight: MC)//can be omitted!
+8. run Matrix: MC
+9. run foreff: MC
+
+selective:
+1. run noCali: data_MC
+2. run fiducial: MC
+3. run effx:(re-name!!!) MC(cover: Normal) + EW_bkg + QCD_num + MC(Matrix + foreff)
+
+Difference for each type:
+1. EW: luminosity reweight!
+2. QCD_num: same sign
+3. QCD_spectrum: reverse isolation
+4. ...

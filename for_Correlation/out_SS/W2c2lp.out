@@ -1,0 +1,58 @@
+********* ZmmAna begin! *********
+********* Attention:it is   QCD_num   running now********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 19769
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 38929
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 39691
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 38701
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 38653
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 37636
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 37890
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 37160
+
+ *** Break *** segmentation violation
+
+
+
+===========================================================
+There was a crash.
+This is the entire stack trace of all threads:
+===========================================================
+#0  0x0000003b3aaac82e in waitpid () from /lib64/libc.so.6
+#1  0x0000003b3aa3e479 in do_system () from /lib64/libc.so.6
+#2  0x00007f782cc8bebd in TUnixSystem::StackTrace() () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#3  0x00007f782cc8e624 in TUnixSystem::DispatchSignals(ESignals) () from /cvmfs/sft.cern.ch/lcg/releases/LCG_94/ROOT/6.14.04/x86_64-slc6-gcc62-opt/lib/libCore.so
+#4  <signal handler called>
+#5  0x000000000040ebfe in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+
+The lines below might hint at the cause of the crash.
+You may get help by asking at the ROOT forum http://root.cern.ch/forum
+Only if you are really convinced it is a bug in ROOT then please submit a
+report at http://root.cern.ch/bugs Please post the ENTIRE stack trace
+from above as an attachment in addition to anything else
+that might help us fixing this issue.
+===========================================================
+#5  0x000000000040ebfe in ZmmAna::Loop(char const*) ()
+#6  0x0000000000404399 in main ()
+===========================================================
+
+

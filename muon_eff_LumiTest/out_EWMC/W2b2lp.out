@@ -1,0 +1,39 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 19655
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 50473
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 41400
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 38740
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 39960
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 38838
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 41882
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 79183
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 80287
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 79361
+Running: Free Rootfile10
+
+total event number:509779
+
+Running:10files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

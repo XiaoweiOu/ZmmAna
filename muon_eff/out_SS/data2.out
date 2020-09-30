@@ -1,0 +1,99 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 109410
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 132584
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 133584
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 124865
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 126571
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 154745
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 141734
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 132629
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile10
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile11
+entryNumber = 645688
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 639252
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 568733
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 609668
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 602796
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 524344
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 506356
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile19
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile20
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile21
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile22
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile23
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile24
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile25
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile26
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile27
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile28
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile29
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile30
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+
+total event number:5.15296e+06
+
+Running:30files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

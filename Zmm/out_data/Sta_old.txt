@@ -1,0 +1,52 @@
+Nll:
+
+Processing counting.cpp...
+7286
+Nh1h1:
+
+Processing counting.cpp...
+12662
+Nh2h2:
+
+Processing counting.cpp...
+9715
+Nh3h3:
+
+Processing counting.cpp...
+7731
+Nh4h4:
+
+Processing counting.cpp...
+1736
+Nh1h1pp:
+
+Processing counting.cpp...
+6708
+Nh2h2pp:
+
+Processing counting.cpp...
+6692
+Nh3h3pp:
+
+Processing counting.cpp...
+8435
+Nh4h4pp:
+
+Processing counting.cpp...
+4247
+Nh1h1mm:
+
+Processing counting.cpp...
+6967
+Nh2h2mm:
+
+Processing counting.cpp...
+6750
+Nh3h3mm:
+
+Processing counting.cpp...
+8546
+Nh4h4mm:
+
+Processing counting.cpp...
+4319

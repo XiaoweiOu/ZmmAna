@@ -1,0 +1,108 @@
+Id_ZMass_LeptonEta0_Pt0:  6.03798e-07
+Signal Parameter:  0.0128068   -1.27735   5.3403
+BKG Parameter:  1.36214e-07
+
+Id_ZMass_LeptonEta0_Pt1:  49.6319
+Signal Parameter:  0.0131367   -0.623673   4.56971
+BKG Parameter:  9.53557
+
+Id_ZMass_LeptonEta0_Pt2:  8.65698e-06
+Signal Parameter:  0.0223837   1.72532   3.40875
+BKG Parameter:  8.28786e-06
+
+Id_ZMass_LeptonEta1_Pt0:  186.057
+Signal Parameter:  0.01713   -0.394338   4.13748
+BKG Parameter:  26.3136
+
+Id_ZMass_LeptonEta1_Pt1:  191.572
+Signal Parameter:  0.0141683   -0.616664   4.57207
+BKG Parameter:  21.8402
+
+Id_ZMass_LeptonEta1_Pt2:  1.39281e-08
+Signal Parameter:  0.0211394   2.41486   4.25954
+BKG Parameter:  5.03057e-09
+
+Id_ZMass_LeptonEta2_Pt0:  503.75
+Signal Parameter:  0.0185729   -0.193383   3.00148
+BKG Parameter:  40.4285
+
+Id_ZMass_LeptonEta2_Pt1:  310.3
+Signal Parameter:  0.0119366   -0.524464   4.63444
+BKG Parameter:  17.32
+
+Id_ZMass_LeptonEta2_Pt2:  137.822
+Signal Parameter:  0.0187202   2.5558   4.21535
+BKG Parameter:  21.5628
+
+Id_ZMass_LeptonEta3_Pt0:  363.428
+Signal Parameter:  0.0135076   -1.56331   4.39931
+BKG Parameter:  19.8886
+
+Id_ZMass_LeptonEta3_Pt1:  228.775
+Signal Parameter:  0.011235   -0.495026   4.78174
+BKG Parameter:  8.72682
+
+Id_ZMass_LeptonEta3_Pt2:  101.11
+Signal Parameter:  0.0164239   3.17716   4.48114
+BKG Parameter:  10.5423
+
+Id_ZMass_LeptonEta4_Pt0:  79.5929
+Signal Parameter:  0.0121022   -3.49547   5.83256
+BKG Parameter:  5.18024
+
+Id_ZMass_LeptonEta4_Pt1:  3.48439e-07
+Signal Parameter:  0.011748   -0.439987   4.74019
+BKG Parameter:  8.92839e-06
+
+Id_ZMass_LeptonEta4_Pt2:  1.08585e-05
+Signal Parameter:  0.0168011   3.03493   4.43579
+BKG Parameter:  5.84316e-06
+
+Id_ZMass_LeptonEta5_Pt0:  315.709
+Signal Parameter:  0.012009   -2.63058   5.34632
+BKG Parameter:  22.123
+
+Id_ZMass_LeptonEta5_Pt1:  1.25558e-07
+Signal Parameter:  0.0112226   -0.429224   4.76821
+BKG Parameter:  2.82568e-06
+
+Id_ZMass_LeptonEta5_Pt2:  1.40149e-06
+Signal Parameter:  0.0188624   2.56413   3.9958
+BKG Parameter:  1.49898e-07
+
+Id_ZMass_LeptonEta6_Pt0:  571.633
+Signal Parameter:  0.0193428   -0.17538   2.87156
+BKG Parameter:  47.8367
+
+Id_ZMass_LeptonEta6_Pt1:  509.528
+Signal Parameter:  0.0120392   -0.424352   4.49342
+BKG Parameter:  30.9004
+
+Id_ZMass_LeptonEta6_Pt2:  3.68664e-05
+Signal Parameter:  0.0187219   2.60866   4.25827
+BKG Parameter:  6.75654e-06
+
+Id_ZMass_LeptonEta7_Pt0:  71.9451
+Signal Parameter:  0.0183067   -0.643806   4.00354
+BKG Parameter:  8.61665
+
+Id_ZMass_LeptonEta7_Pt1:  48.3305
+Signal Parameter:  0.0133502   -0.553032   4.60149
+BKG Parameter:  4.58527
+
+Id_ZMass_LeptonEta7_Pt2:  6.67417e-08
+Signal Parameter:  0.0194264   2.4676   4.38456
+BKG Parameter:  1.95032e-08
+
+Id_ZMass_LeptonEta8_Pt0:  85.8038
+Signal Parameter:  0.0119443   -0.44965   4.83376
+BKG Parameter:  14.5316
+
+Id_ZMass_LeptonEta8_Pt1:  1.37494e-07
+Signal Parameter:  0.0117422   -0.500421   4.82764
+BKG Parameter:  4.5985e-07
+
+Id_ZMass_LeptonEta8_Pt2:  4.45803e-08
+Signal Parameter:  0.0214753   1.4959   3.37081
+BKG Parameter:  2.34861e-08
+

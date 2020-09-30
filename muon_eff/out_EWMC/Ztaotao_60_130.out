@@ -1,0 +1,159 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 28213
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 28404
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 36739
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 20067
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 30336
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 26259
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 28257
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 27870
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 28207
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 27449
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 19886
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 37886
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 25252
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 31438
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 24981
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 31318
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 31092
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 25933
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 16896
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 39388
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 30834
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 24798
+Running: Free Rootfile22
+Running:Starting Rootfile23
+entryNumber = 34255
+Running: Free Rootfile23
+Running:Starting Rootfile24
+entryNumber = 22472
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 32835
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 22190
+Running: Free Rootfile26
+Running:Starting Rootfile27
+entryNumber = 25034
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 31003
+Running: Free Rootfile28
+Running:Starting Rootfile29
+entryNumber = 39579
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 16892
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 39886
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 17275
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 39472
+Running: Free Rootfile33
+Running:Starting Rootfile34
+entryNumber = 16947
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 28253
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 29079
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 36502
+Running: Free Rootfile37
+Running:Starting Rootfile38
+entryNumber = 20039
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 31595
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 25246
+Running: Free Rootfile40
+Running:Starting Rootfile41
+entryNumber = 34261
+Running: Free Rootfile41
+Running:Starting Rootfile42
+entryNumber = 22600
+Running: Free Rootfile42
+Running:Starting Rootfile43
+entryNumber = 30415
+Running: Free Rootfile43
+Running:Starting Rootfile44
+entryNumber = 25545
+Running: Free Rootfile44
+Running:Starting Rootfile45
+entryNumber = 25885
+Running: Free Rootfile45
+Running:Starting Rootfile46
+entryNumber = 31484
+Running: Free Rootfile46
+Running:Starting Rootfile47
+entryNumber = 33242
+Running: Free Rootfile47
+Running:Starting Rootfile48
+entryNumber = 22756
+Running: Free Rootfile48
+Running:Starting Rootfile49
+entryNumber = 25015
+Running: Free Rootfile49
+Running:Starting Rootfile50
+entryNumber = 32036
+Running: Free Rootfile50
+
+total event number:1.4133e+06
+
+Running:50files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

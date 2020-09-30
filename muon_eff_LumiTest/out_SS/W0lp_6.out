@@ -1,0 +1,165 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072148-20093198.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072148-20093198.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 26058832
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile1
+entryNumber = 38208
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 50604
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 50357
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 50461
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 50759
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 51171
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile8
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile9
+entryNumber = 0
+****** this tree has no event, skip to next!!! ******
+Running:Starting Rootfile10
+entryNumber = 51426
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 50439
+Running: Free Rootfile11
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072158-20093209.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072158-20093209.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 30313178
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile12
+entryNumber = 44576
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 49978
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 50333
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 50032
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 51138
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 50206
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 50585
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 50165
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 50060
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 50731
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 49610
+Running: Free Rootfile22
+Running:Starting Rootfile23
+entryNumber = 51029
+Running: Free Rootfile23
+Running:Starting Rootfile24
+entryNumber = 51401
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 49900
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 50204
+Running: Free Rootfile26
+Running:Starting Rootfile27
+entryNumber = 49421
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 50739
+Running: Free Rootfile28
+Running:Starting Rootfile29
+entryNumber = 50935
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 49577
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 49980
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 50521
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 50574
+Running: Free Rootfile33
+Running:Starting Rootfile34
+entryNumber = 50450
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 50104
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 49978
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 50083
+Running: Free Rootfile37
+Running:Starting Rootfile38
+entryNumber = 52407
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 50280
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 50860
+Running: Free Rootfile40
+Running:Starting Rootfile41
+entryNumber = 50290
+Running: Free Rootfile41
+Running:Starting Rootfile42
+entryNumber = 50697
+Running: Free Rootfile42
+Running:Starting Rootfile43
+entryNumber = 50745
+Running: Free Rootfile43
+Running:Starting Rootfile44
+entryNumber = 51567
+Running: Free Rootfile44
+Running:Starting Rootfile45
+entryNumber = 50301
+Running: Free Rootfile45
+Running:Starting Rootfile46
+entryNumber = 50051
+Running: Free Rootfile46
+Running:Starting Rootfile47
+entryNumber = 50214
+Running: Free Rootfile47
+Running:Starting Rootfile48
+entryNumber = 49993
+Running: Free Rootfile48
+Running:Starting Rootfile49
+entryNumber = 50222
+Running: Free Rootfile49
+Running:Starting Rootfile50
+entryNumber = 49708
+Running: Free Rootfile50
+
+total event number:2.35307e+06
+
+Running:50files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

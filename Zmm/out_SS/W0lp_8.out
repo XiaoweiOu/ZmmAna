@@ -1,0 +1,172 @@
+********* ZmmAna begin! *********
+********* Attention:it is   QCD_num   running now********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 50705
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 49429
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 50716
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 50808
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 50245
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 50701
+Running: Free Rootfile6
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072325-20093304.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072325-20093304.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 30396411
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile7
+entryNumber = 44576
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 50138
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 50445
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 49892
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 50406
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 49975
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 50506
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 49783
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 50179
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 51133
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 50572
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 51065
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 50778
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 50022
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 51444
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 50346
+Running: Free Rootfile22
+Running:Starting Rootfile23
+entryNumber = 50246
+Running: Free Rootfile23
+Running:Starting Rootfile24
+entryNumber = 50383
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 50244
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 49273
+Running: Free Rootfile26
+Running:Starting Rootfile27
+entryNumber = 50051
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 50658
+Running: Free Rootfile28
+Running:Starting Rootfile29
+entryNumber = 50757
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 50953
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 50093
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 50301
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 50874
+Running: Free Rootfile33
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072349-20093331.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072349-20093331.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 30515211
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile34
+entryNumber = 44576
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 50684
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 50868
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 50986
+Running: Free Rootfile37
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072353-20093335.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072353-20093335.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 25931505
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile38
+entryNumber = 38208
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 51208
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 49904
+Running: Free Rootfile40
+Running:Starting Rootfile41
+entryNumber = 50858
+Running: Free Rootfile41
+Running:Starting Rootfile42
+entryNumber = 52432
+Running: Free Rootfile42
+Running:Starting Rootfile43
+entryNumber = 50466
+Running: Free Rootfile43
+Running:Starting Rootfile44
+entryNumber = 51364
+Running: Free Rootfile44
+Warning in <TFile::Init>: file /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072359-20093342.d0cabsrv1.fnal.gov/Ztree.root probably not closed, trying to recover
+Info in <TFile::Recover>: /lustre/AtlUser/cwang/DZeroData/ZmumuData/BKGMC/W0lpBKG/IIb_W0lp_20161210072359-20093342.d0cabsrv1.fnal.gov/Ztree.root, recovered key TTree:Ztree at address 21561725
+Warning in <TFile::Init>: successfully recovered 1 keys
+Running:Starting Rootfile45
+entryNumber = 31904
+Running: Free Rootfile45
+Running:Starting Rootfile46
+entryNumber = 50355
+Running: Free Rootfile46
+Running:Starting Rootfile47
+entryNumber = 52244
+Running: Free Rootfile47
+Running:Starting Rootfile48
+entryNumber = 41020
+Running: Free Rootfile48
+Running:Starting Rootfile49
+entryNumber = 52213
+Running: Free Rootfile49
+Running:Starting Rootfile50
+entryNumber = 50135
+Running: Free Rootfile50
+
+total event number:2.47712e+06
+
+Running:50files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

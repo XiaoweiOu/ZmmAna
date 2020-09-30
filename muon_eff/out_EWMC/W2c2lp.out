@@ -1,0 +1,66 @@
+********* ZmmAna begin! *********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 19769
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 38929
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 39691
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 38701
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 38653
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 37636
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 37890
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 37160
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 38481
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 38096
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 37772
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 38601
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 38521
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 77065
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 74711
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 74640
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 75348
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 76820
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 74656
+Running: Free Rootfile19
+
+total event number:933140
+
+Running:19files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

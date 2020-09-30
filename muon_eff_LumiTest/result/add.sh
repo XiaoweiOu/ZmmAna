@@ -1,0 +1,5 @@
+hadd data_lumi1_result.root data_1_lumi1_result.root data_2_lumi1_result.root data_3_lumi1_result.root data_4_lumi1_result.root data_5_lumi1_result.root data_6_lumi1_result.root data_7_lumi1_result.root data_8_lumi1_result.root data_9_lumi1_result.root
+
+hadd data_lumi2_result.root data_1_lumi2_result.root data_2_lumi2_result.root data_3_lumi2_result.root data_4_lumi2_result.root data_5_lumi2_result.root data_6_lumi2_result.root data_7_lumi2_result.root data_8_lumi2_result.root data_9_lumi2_result.root
+
+hadd data_lumi3_result.root data_1_lumi3_result.root data_2_lumi3_result.root data_3_lumi3_result.root data_4_lumi3_result.root data_5_lumi3_result.root data_6_lumi3_result.root data_7_lumi3_result.root data_8_lumi3_result.root data_9_lumi3_result.root

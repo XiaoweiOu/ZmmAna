@@ -1,0 +1,160 @@
+********* ZmmAna begin! *********
+********* Attention:it is   Normal   running now********
+Info in <TCanvas::MakeDefCanvas>:  created default TCanvas with name c1
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c1
+Running:Starting Rootfile1
+entryNumber = 51420
+Running: Free Rootfile1
+Running:Starting Rootfile2
+entryNumber = 50772
+Running: Free Rootfile2
+Running:Starting Rootfile3
+entryNumber = 49724
+Running: Free Rootfile3
+Running:Starting Rootfile4
+entryNumber = 61057
+Running: Free Rootfile4
+Running:Starting Rootfile5
+entryNumber = 50025
+Running: Free Rootfile5
+Running:Starting Rootfile6
+entryNumber = 61155
+Running: Free Rootfile6
+Running:Starting Rootfile7
+entryNumber = 52419
+Running: Free Rootfile7
+Running:Starting Rootfile8
+entryNumber = 52556
+Running: Free Rootfile8
+Running:Starting Rootfile9
+entryNumber = 52654
+Running: Free Rootfile9
+Running:Starting Rootfile10
+entryNumber = 51898
+Running: Free Rootfile10
+Running:Starting Rootfile11
+entryNumber = 62361
+Running: Free Rootfile11
+Running:Starting Rootfile12
+entryNumber = 50253
+Running: Free Rootfile12
+Running:Starting Rootfile13
+entryNumber = 51406
+Running: Free Rootfile13
+Running:Starting Rootfile14
+entryNumber = 50352
+Running: Free Rootfile14
+Running:Starting Rootfile15
+entryNumber = 51627
+Running: Free Rootfile15
+Running:Starting Rootfile16
+entryNumber = 51835
+Running: Free Rootfile16
+Running:Starting Rootfile17
+entryNumber = 74961
+Running: Free Rootfile17
+Running:Starting Rootfile18
+entryNumber = 52934
+Running: Free Rootfile18
+Running:Starting Rootfile19
+entryNumber = 50358
+Running: Free Rootfile19
+Running:Starting Rootfile20
+entryNumber = 50072
+Running: Free Rootfile20
+Running:Starting Rootfile21
+entryNumber = 50310
+Running: Free Rootfile21
+Running:Starting Rootfile22
+entryNumber = 51084
+Running: Free Rootfile22
+Running:Starting Rootfile23
+entryNumber = 50781
+Running: Free Rootfile23
+Running:Starting Rootfile24
+entryNumber = 50891
+Running: Free Rootfile24
+Running:Starting Rootfile25
+entryNumber = 50175
+Running: Free Rootfile25
+Running:Starting Rootfile26
+entryNumber = 51311
+Running: Free Rootfile26
+Running:Starting Rootfile27
+entryNumber = 49862
+Running: Free Rootfile27
+Running:Starting Rootfile28
+entryNumber = 50230
+Running: Free Rootfile28
+Running:Starting Rootfile29
+entryNumber = 51289
+Running: Free Rootfile29
+Running:Starting Rootfile30
+entryNumber = 50373
+Running: Free Rootfile30
+Running:Starting Rootfile31
+entryNumber = 50426
+Running: Free Rootfile31
+Running:Starting Rootfile32
+entryNumber = 50885
+Running: Free Rootfile32
+Running:Starting Rootfile33
+entryNumber = 51458
+Running: Free Rootfile33
+Running:Starting Rootfile34
+entryNumber = 50214
+Running: Free Rootfile34
+Running:Starting Rootfile35
+entryNumber = 50647
+Running: Free Rootfile35
+Running:Starting Rootfile36
+entryNumber = 50418
+Running: Free Rootfile36
+Running:Starting Rootfile37
+entryNumber = 51577
+Running: Free Rootfile37
+Running:Starting Rootfile38
+entryNumber = 52082
+Running: Free Rootfile38
+Running:Starting Rootfile39
+entryNumber = 50777
+Running: Free Rootfile39
+Running:Starting Rootfile40
+entryNumber = 50784
+Running: Free Rootfile40
+Running:Starting Rootfile41
+entryNumber = 50652
+Running: Free Rootfile41
+Running:Starting Rootfile42
+entryNumber = 51304
+Running: Free Rootfile42
+Running:Starting Rootfile43
+entryNumber = 50125
+Running: Free Rootfile43
+Running:Starting Rootfile44
+entryNumber = 52173
+Running: Free Rootfile44
+Running:Starting Rootfile45
+entryNumber = 52360
+Running: Free Rootfile45
+Running:Starting Rootfile46
+entryNumber = 51043
+Running: Free Rootfile46
+Running:Starting Rootfile47
+entryNumber = 51150
+Running: Free Rootfile47
+Running:Starting Rootfile48
+entryNumber = 51031
+Running: Free Rootfile48
+Running:Starting Rootfile49
+entryNumber = 52999
+Running: Free Rootfile49
+Running:Starting Rootfile50
+entryNumber = 51379
+Running: Free Rootfile50
+
+total event number:2.60963e+06
+
+Running:50files in total readed!
+Running: histgrams saved!
+********* ZmmAna finish! *********

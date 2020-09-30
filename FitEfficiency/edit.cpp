@@ -1,0 +1,14 @@
+        if(Muon[im].Eta()>-1.6 && Muon[im].Eta()<-1.2) scale_additional[im] = ;
+        if(Muon[im].Eta()>-1.2 && Muon[im].Eta()<-1.0) scale_additional[im] = ;
+        if(Muon[im].Eta()>-1.0 && Muon[im].Eta()<-0.8) scale_additional[im] = ;
+        if(Muon[im].Eta()>-0.8 && Muon[im].Eta()<-0.6) scale_additional[im] = ;
+        if(Muon[im].Eta()>-0.6 && Muon[im].Eta()<-0.4) scale_additional[im] = ;
+        if(Muon[im].Eta()>-0.4 && Muon[im].Eta()<-0.2) scale_additional[im] = ;
+        if(Muon[im].Eta()>-0.2 && Muon[im].Eta()<0) scale_additional[im] = ;
+        if(Muon[im].Eta()>0 && Muon[im].Eta()<0.2) scale_additional[im] = ;
+        if(Muon[im].Eta()>0.2 && Muon[im].Eta()<0.4) scale_additional[im] = ;
+        if(Muon[im].Eta()>0.4 && Muon[im].Eta()<0.6) scale_additional[im] = ;
+        if(Muon[im].Eta()>0.6 && Muon[im].Eta()<0.8) scale_additional[im] = ;
+        if(Muon[im].Eta()>0.8 && Muon[im].Eta()<1.0) scale_additional[im] = ;
+        if(Muon[im].Eta()>1.0 && Muon[im].Eta()<1.2) scale_additional[im] = ;
+        if(Muon[im].Eta()>1.2 && Muon[im].Eta()<1.6) scale_additional[im] = ;
